@@ -24,9 +24,7 @@ export default function About({ onOpenPitchModal, onOpenJoinModal }: AboutProps)
 
               {/* Large oversized editorial typography */}
               <div className="select-none">
-                <span className="font-gotham text-6xl sm:text-7xl lg:text-8xl text-neutral-950/15 leading-none block tracking-tighter">
-                  ABOUT
-                </span>
+                
                 <h2 className="font-gotham text-3xl sm:text-4xl lg:text-5xl text-neutral-950 tracking-tight leading-tight -mt-4">
                   About Hubballi<span className="text-[#FF4D00]">.</span>Network
                 </h2>
