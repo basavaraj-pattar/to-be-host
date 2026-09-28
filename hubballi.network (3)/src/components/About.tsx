@@ -21,9 +21,6 @@ export default function About({ onOpenPitchModal, onOpenJoinModal }: AboutProps)
                 <div className="w-8 h-1 bg-[#FF4D00]" />
                 <span className="text-xs uppercase tracking-widest font-extrabold text-[#FF4D00]">The Manifesto</span>
               </div>
-
-              {/* Large oversized editorial typography */}
-              <div className="select-none">
                 
                 <h2 className="font-gotham text-3xl sm:text-4xl lg:text-5xl text-neutral-950 tracking-tight leading-tight -mt-4">
                   About Hubballi<span className="text-[#FF4D00]">.</span>Network
