@@ -1,0 +1,6 @@
+{
+  "name": "Hubballi.Network",
+  "description": "Creator-first storytelling and community platform for Hubballi-Dharwad and North Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
